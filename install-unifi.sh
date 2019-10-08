@@ -6,7 +6,7 @@
 # The latest version of UniFi:
 UNIFI_SOFTWARE_URL="/tmp/UniFi.unix.zip"
 # The rc script associated with this branch or fork:
-RC_SCRIPT_URL="https://raw.githubusercontent.com/gozoinks/unifi-pfsense/master/rc.d/unifi.sh
+RC_SCRIPT_URL="https://raw.githubusercontent.com/gozoinks/unifi-pfsense/master/rc.d/unifi.sh"
 
 
 # If pkg-ng is not yet installed, bootstrap it:
